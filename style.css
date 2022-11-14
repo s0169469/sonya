@@ -103,7 +103,9 @@ li:hover .submenu {
     transform: translateX(-50%);
     min-height: 768px;
 }
-
+.page-title{
+    color: white;
+}
 
 
 
