@@ -105,6 +105,8 @@ li:hover .submenu {
 }
 .page-title{
     color: white;
+    line-height: 1.2;
+    text-align: center;
 }
 
 
